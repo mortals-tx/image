@@ -1,2 +1,2 @@
 # image
-tx
+md文件专用
